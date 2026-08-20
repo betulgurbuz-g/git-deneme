@@ -1,7 +1,7 @@
 print("Merhaba Git!")
 print("Git ogreniyorum")
 print("GitHub'a ilk projemi gönderdim!")
-print("Git calisiyorum")
+print("Git calisiyorum!")
 print("Bu geliştirme branch'inde yazildi.")
 print("Sadece geliştirme branch'inde")
 print("Pull Request denemesi")
